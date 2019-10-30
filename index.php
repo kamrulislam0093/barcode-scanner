@@ -4,6 +4,7 @@
 <style>
 * {
     box-sizing: border-box;
+    font-size: 100%;
 }
 body {
     width: 550px;
