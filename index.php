@@ -5,6 +5,7 @@
 * {
     box-sizing: border-box;
     font-size: 100%;
+    text-transfer: uppercase;
 }
 body {
     width: 550px;
