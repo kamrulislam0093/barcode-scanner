@@ -2,6 +2,9 @@
 <head>
 <title>How to Create Barcode Generator using PHP</title>
 <style>
+* {
+    box-sizing: border-box;
+}
 body {
     width: 550px;
     font-family: Arial;
